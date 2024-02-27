@@ -30,7 +30,5 @@ public class PackageRunner {
                 System.out.println("_______________________________________________________\nFormula for the cost of shipping:\n - A base cost of $3.75\n - Add 5 cents for each tenth of a pound\n - Divide the difference in county codes by 100 and add that\n - Packages exceeding a combined 36 inches will cost an additional 10 cents per inch\n - Packages that are more than 40 pounds will be charged 10 cents per tenth of a pound over the 40 pound limit");
             }
         }
-
-
     }
 }
